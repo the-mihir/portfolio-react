@@ -39,9 +39,10 @@ function about() {
               <h5>Projects</h5>
               <small>100+ Projects Done</small>          
             </article>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam suscipit ab, magnam aliquam laudantium ut delectus ipsum quae minus velit? Id adipisci autem dolores, quibusdam repellat quod cupiditate quam harum! Nesciunt harum id dolore distinctio rem corporis.</p>
-            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
+          <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam suscipit ab, magnam aliquam laudantium ut delectus ipsum quae minus velit? Id adipisci autem dolores, quibusdam repellat quod cupiditate quam harum! Nesciunt harum id dolore distinctio rem corporis.</p>
+          
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
 
       </div>
