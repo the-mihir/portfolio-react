@@ -6,8 +6,8 @@ function HeaderSocial() {
   return (
     <div className='header_social'>
         <a target="_blank" href={"https://linkdin.com"}><BsLinkedin /></a>
-        <a target="_blank" href="https://github.com"></a><BsGithub />
-        <a target="_blank" href="https://dirbbble.com"></a> <BsDribbble />
+        <a target="_blank" href="https://github.com"><BsGithub /></a>
+        <a target="_blank" href="https://dirbbble.com"> <BsDribbble /></a>
        
         
     </div>

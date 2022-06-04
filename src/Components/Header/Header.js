@@ -12,11 +12,13 @@ function Header() {
           <h1>Mihir Kanti Das</h1>
           <h5 className='text-light'>Fullstack Developer</h5>
           <Cta/>
+          <div className="me">
+            <img src={me} alt="" />
+          </div>
           <a href="#contact" className='scroll_down'>Scroll Down</a>
           <HeaderSocial />
-          <div className='me'>
-            <img src={me} alt="me" />
-          </div>
+          
+          
           
           
         </div>

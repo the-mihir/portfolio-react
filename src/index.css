@@ -21,7 +21,7 @@
     --transition: all 400ms ease;
     
     --container-width-lg: 75%;
-    --container-width-md: 8%;
+    --container-width-md: 80%;
     --container-width-sm: 90%;
 }
 
@@ -86,7 +86,7 @@ a {
 }
 
 a:hover{
-    color: (--color-white);
+    color: var(--color-white);
 }
 
 .btn{
