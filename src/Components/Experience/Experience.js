@@ -11,80 +11,111 @@ function Experience() {
         <div className="container experience-container">
           <div className="experience-frontend">
             <h3>Frontend Development</h3>
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>HTML</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+             <div className="experience-content">
+             <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>CSS 3</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+              <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>Java Script (Js) </h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+              <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>React Js</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+              <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>Bootstrap</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+              <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>Tailwind</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+              <div className="experience-details">
+                <BsPatchCheckFill />
+                <div>
+                  <h4>HTML</h4>
+                  <small className='text-light'>Experienced</small>
+                </div>
+              </div>
+            </div>
           </div>
 
           {/* ============== Backend Development =============  */}
 
-          <div className="experience-backend">
-            <h3>Backend Development</h3>
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>Node JS</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+          <div className="experience-frontend">
+              <h3>Frontend Development</h3>
+             <div className="experience-content">
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>MongoDB</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>PHP</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>MySQL</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
 
-              <article className="experience-content">
-              <BsPatchCheckFill />
-              <h4>Python</h4>
-              <small className='text-light'>Experienced</small>
-              </article>
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
+
+                <div className="experience-details">
+                  <BsPatchCheckFill />
+                  <div>
+                    <h4>HTML</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+                </div>
+              </div>
           </div>
-
-
-          
         </div>
       </section>
   )
