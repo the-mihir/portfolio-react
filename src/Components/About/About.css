@@ -17,7 +17,9 @@
     display: grid;
     place-items: center;
 }
-
+.about_me:hover.about_me-image{
+    transform: rotate(0deg);
+}
 .about_me-image{
     border-radius: 2rem;
     overflow: hidden;
@@ -25,9 +27,9 @@
     transition: var(--transition);
 }
 
-.about_me-image:hover{
+/* .about_me-image:hover{
     transform: rotate(0deg);
-}
+} */
 
 .about-cards{
     display: grid;
